@@ -4,8 +4,3 @@ def my_each(array)
     yield array[i]
     i += 1
   end
-    puts
-  array.each do |i|
-    puts i
-end
-end
